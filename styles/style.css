@@ -78,3 +78,45 @@
 .para{
     margin-bottom: 10px;
 }
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+   
+
+
+
+
+}
+
+.box{
+    width: 210px;
+    height: 280px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+
+}
+.icon{
+    width: 70px;
+}
+.box-tittle{
+    padding: 10px;
+}
+.box-btn{
+    background-color: rgba(128, 128, 128, 0.877);
+    padding: 5px;
+    margin-top: 10px;
+
+
+}
+.full-service{
+    background-image: url('../images/background/background\ \(1\).png'),linear-gradient(45deg,rgb(31, 29, 29),rgb(26, 23, 23));
+    color: white;
+    padding: 10px;
+}
+.hihi{
+    font-size: 50px;
+}
