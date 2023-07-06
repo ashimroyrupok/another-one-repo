@@ -57,4 +57,24 @@
     color: white;
     background: red;
     padding: 15px;
+    border: none;
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+
+}
+.aboutus{
+    text-align: center;
+    font-size:35px ;
+
+}
+.about-head{
+    font-size: 24px ;
+    padding: 10px;
+}
+.para{
+    margin-bottom: 10px;
 }
