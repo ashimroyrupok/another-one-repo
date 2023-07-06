@@ -22,3 +22,39 @@
 .itmes{
     margin-left: 10px;
 }
+.itmes:hover{
+    color: aqua;
+    transform: 0.3s;
+}
+.image{ 
+    width: 300px;
+}
+.main{
+    
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    color: white;
+    background-image: url("../images/background/background\ \(1\).png"),linear-gradient(45deg,rgb(8,8,8),rgb(53,53,53));
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.title{
+    font-size: 55px;
+    font-weight: bold;
+
+}
+.dis{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.button{
+    color: white;
+    background: red;
+    padding: 15px;
+}
